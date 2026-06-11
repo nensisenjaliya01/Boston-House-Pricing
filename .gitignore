@@ -1,0 +1,10 @@
+# Ignore virtual environment and compiled files
+venv/
+__pycache__/
+*.pyc
+# *.pkl (Commenting this out so regmodel.pkl and scaler.pkl go to GitHub)
+*.ipynb_checkpoints
+
+# OS specific files
+.DS_Store
+Thumbs.db
